@@ -27,47 +27,58 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lakshya-chourasia&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Suraj-kummar&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 </div>
 
 <br/>
 
-I am a **Full-Stack Developer & AI Enthusiast** with a special passion for building innovative and scalable solutions. My actions are always aimed at achieving high-quality results and creating meaningful impact. In life, I am guided by continuous learning and self-improvement.
+I am a **Full-Stack Engineer & AI Architect** bridging the gap between decentralized systems and intelligent agents.
 
-I am focused on developing AI-powered web applications and contributing to open-source projects.
+My focus is on engineering high-performance, scalable solutions. I don't just build apps; I architect systems—ranging from ultra-low-latency HFT engines and DePIN marketplaces to autonomous AI agents on the Monad blockchain.
 
-Currently, I am specializing in creating modern web applications, AI integrations, and high-performance systems. I'm also exploring advanced system design, cloud technologies, and microservices architecture.
-
-At the moment, I am deepening my knowledge in Next.js 14, Docker & Kubernetes, and building intelligent applications using GenAI and LLMs.
+Currently, I am pushing the boundaries of Next.js 14 and Solidity, building the next generation of "Smart" DApps that leverage GenAI for real-time decision-making and security analysis. I thrive in high-stakes environments like hackathons, where rapid prototyping meets production-grade code.
 
 <br/>
 
 ```javascript
 const SURAJ_KUMAR = {
-    OS: ["Windows", "Linux"],
-    languages: {
-        proficient: ["Python", "C++", "Solidity", "JavaScript", "TypeScript"],
-        intermediate: ["Java", "Dart"],
-        databases: ["SQL"]
+  name: "Suraj Kumar",
+  role: "Full-Stack Engineer | Web3 & AI Specialist",
+  location: "Bhopal, India",
+  
+  // Core Engineering Stack
+  technologies: {
+    languages: ["TypeScript", "Python", "C++", "Solidity", "Dart", "Java"],
+    frontend: ["Next.js 14", "React", "Flutter", "TailwindCSS"],
+    backend: ["Node.js", "Supabase", "PostgreSQL", "Docker", "Kubernetes"],
+  },
+
+  // Specialized Domains
+  domains: {
+    blockchain: {
+      ecosystem: ["Monad", "Ethereum"],
+      tools: ["Foundry", "Hardhat", "Ethers.js", "Smart Contract Security"],
+      focus: ["DeFi", "DePIN", "Account Abstraction"]
     },
-    programming: {
-        blockchain: ["Solidity", "Smart Contracts", "Hardhat", "Foundry", "Ethers.js", "Monad"],
-        mobile: ["Flutter (Mobile & Web)"],
-        frontend: ["Next.js", "React", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Supabase"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        aiML: ["LLMs", "Agentic AI", "LangChain", "Multimodal AI"],
-        tools: ["Git", "GitHub", "Vercel", "Netlify", "Docker", "Postman", "MetaMask", "Figma"],
-        ides: ["IntelliJ IDEA", "Remix IDE", "VS Code"]
-    },
-    currentFocus: {
-        learning: ["Core Java & DSA", "Smart Contract Security", "Agentic AI Workflows"],
-        building: "AI Agents & Blockchain Applications for Real-World Impact"
-    },
-    location: "📍 Bhopal, India 🇮🇳",
-    education: "🎓 3rd Year Computer Science Student",
-    mantra: "Build the future, one block at a time ⚡"
+    artificial_intelligence: {
+      core: ["LLMs", "Agentic Workflows", "RAG Pipelines"],
+      tools: ["LangChain", "OpenAI API", "Computer Vision"],
+      application: ["Automated Auditing", "FinTech Agents"]
+    }
+  },
+
+  // Current Focus & Architecture
+  currently_building: [
+    "Autonomous Payment Agents on Monad",
+    "AI-Powered Smart Contract Auditors",
+    "High-Frequency Trading (HFT) Engines"
+  ],
+
+  // The Developer Mindset
+  philosophy: () => {
+    return "Build fast, break nothing, and ship systems that matter.";
+  }
 };
 ```
 
